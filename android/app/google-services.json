@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401496909411",
+    "project_id": "soilpedia-89272",
+    "storage_bucket": "soilpedia-89272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401496909411:android:72e0a23010d6214fef7a56",
+        "android_client_info": {
+          "package_name": "com.azappdev.soilpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401496909411-p6nf3e3vmskscd66jkuevf964u8j7tpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azappdev.soilpedia",
+            "certificate_hash": "b77ad83147091d2ca6b8b935a61b62aad4e78b4f"
+          }
+        },
+        {
+          "client_id": "401496909411-0vaujh143sap5vsuhtoq694r4lp1o4dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm05nNGNV2nXcbT2wEAnRZJ3OEwmF6ack"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401496909411-0vaujh143sap5vsuhtoq694r4lp1o4dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
